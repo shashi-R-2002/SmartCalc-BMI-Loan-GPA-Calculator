@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gentle-babka-ab7a1b.netlify.app/sitemap.xml
