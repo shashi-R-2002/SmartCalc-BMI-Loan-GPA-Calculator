@@ -1,2 +1,17 @@
-# SmartCalc-BMI-Loan-GPA-Calculator
-Smart Calculator is a lightweight, fast, and responsive all-in-one calculator suite designed to simplify daily calculations. This project includes three essential calculators - BMI Calculator for health tracking, Loan Calculator for financial planning, and GPA Calculator for students - all in one clean and user-friendly interface.
+# 🧮 SmartCalc - BMI, Loan & GPA Calculator
+
+🔗 **Live Demo:** https://gentle-babka-ab7a1b.netlify.app/
+
+A lightweight, fast, and responsive all-in-one calculator suite.
+
+### ✨ Features
+- **BMI Calculator** - Health tracking with category
+- **Loan Calculator** - Monthly payment, total interest
+- **GPA Calculator** - For students
+
+### 🛠️ Tech Stack
+- HTML5, CSS3, JavaScript
+- Deployed on Netlify
+
+### 👩‍💻 Developed By
+Shashi R - IT Undergraduate
